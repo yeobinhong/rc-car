@@ -1,34 +1,43 @@
-document title
+ME
 =============
-# 소제목
+# personal info
+* name: Yeobin Hong
+* date of birth: 2000. 03. 04
+* residence: Seoul
+* school: Korea University, B.S
 
 
->block1
-> > block2
 
-1.
-2.
-3.
+I love my dog
+Dodo
+<img width="80%" src="https://user-images.githubusercontent.com/108724053/177498520-58ae323b-fd01-4ad6-b5f8-f373692449bc.JPG"/>
 
-* 1단계
-  + 2단계
-	  - 3단계
-	     - 기호 *, +,- 중에서 아무거나
 
-___
+I like this character
+Gosim
+<img width="80%" src="https://user-images.githubusercontent.com/108724053/177495902-195906b3-a37b-4a52-af6d-c7c647dc78f3.jpg"/>
+***
 
-This is a normal paragraph.
 
-	This is a code block!(tab하고 쓰기)
 
+# programming language
++ python
+```python
+print('Hello World!')
 ```
-This is a code block Too
+
++ C (currently learning)
+```C
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World!");
+  return 0;
+}
 ```
+***
+
+> contact
+> > email: <yeobin34@korea.ac.kr>
 
 ***
-링크
-email: <yeobin34@korea.ac.kr>
-
-Link: [Google](https://google.com)
-
-***<img width="80%" src="https://user-images.githubusercontent.com/108724053/177495902-195906b3-a37b-4a52-af6d-c7c647dc78f3.jpg"/>
