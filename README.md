@@ -22,6 +22,7 @@ Gosim
 
 
 <img width="80%" src="https://user-images.githubusercontent.com/108724053/177495902-195906b3-a37b-4a52-af6d-c7c647dc78f3.jpg"/>
+
 ***
 
 
@@ -42,8 +43,7 @@ int main(void) {
 }
 ```
 
-+++
-
+***
 
 
 > contact
