@@ -1,39 +1,20 @@
-ME
+만능 경찰차
 =============
-# personal info
-* name: Yeobin Hong
-* date of birth: 2000. 03. 04
-* residence: Seoul
-* school: Korea University, B.S
+# project outline (to do)
+* RC카 제작
+* 과속 측정 기능 구현
+* 알코올 농도 측정
+* 거짓말 탐지기
+* 각각의 기능 하나의 보드에 완성하기
 
-
-
-I love my dog
-
-Dodo
-
-
-<img width="80%" src="https://user-images.githubusercontent.com/108724053/177498520-58ae323b-fd01-4ad6-b5f8-f373692449bc.JPG"/>
-
-
-I like this character
-
-Gosim
-
-
-<img width="80%" src="https://user-images.githubusercontent.com/108724053/177495902-195906b3-a37b-4a52-af6d-c7c647dc78f3.jpg"/>
 
 ***
 
 
 
-# programming language
-+ python
-```python
-print('Hello World!')
-```
-
-+ C (currently learning)
+# trouble shooting
+코드에서 문제 생기는 부부 적어주시면 돼요
+예시
 ```C
 #include <stdio.h>
 
@@ -42,15 +23,3 @@ int main(void) {
   return 0;
 }
 ```
-
-***
-
-
-> contact
-> > email: <yeobin34@korea.ac.kr>
-
-
-
-
-
-
